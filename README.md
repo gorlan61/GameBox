@@ -28,7 +28,6 @@ GameBox, oyun severler için tasarlanan bir mobil sosyal ağıdır. Oynadığın
 - [🗺️ Gelecek Yol Haritası](#️-gelecek-yol-haritası)
 - [🤝 Katkı Sağlama](#-katkı-sağlama)
 - [📜 Lisans](#-lisans)
-- [🙏 Teşekkürler](#-teşekkürler)
 
 ---
 
@@ -293,16 +292,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
-
----
-
-## 🙏 Teşekkürler
-
-Bu proje, **Recep Tayyip Erdoğan Üniversitesi, Ardeşen Meslek Yüksekokulu, Bilgisayar Teknolojileri Bölümü**'nün **Sistem Analizi dersi** kapsamında hazırlanmıştır.
-
-### 👨‍🏫 Özel Teşekkürler
-
-**Dr. Öğr. Üyesi Murat Hacımturzaoğlu** - Danışman hocamıza, bu proje boyunca gösterdikleri rehberlik, yapıcı eleştiriler ve destek için şükranlarımızı sunuyoruz. Onun bilimsel yaklaşımı ve uygulamalı perspektifi, GameBox'ın kalitesini önemli ölçüde artırmıştır.
 
 ---
 
